@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=83dcb7&height=300&section=header&text=Heunoh%20lee&fontSize=90)
- 
+
 <div align="center">
- ### currently learning!
+ 
+### currently learning!
 <p>
 <img src="https://img.shields.io/badge/python-C0D84D?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/cpp-00B5E3?style=flat-square&logo=cplusplus&logoColor=blue"/>

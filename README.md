@@ -29,6 +29,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heunsei0506)](https://solved.ac/heunsei0506/)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heunsei&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heunsei&show_icons=true&theme=transparent)
 </div>
 

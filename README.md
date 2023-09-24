@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=83dcb7&height=300&section=header&text=Heunoh%20lee&fontSize=90)
  
-# :sparkles: Heunoh lee :sparkles:
 
 ### currently learning!
 <p>

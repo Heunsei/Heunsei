@@ -22,9 +22,9 @@
 </p>
 
 ## I'm interested in
-<p>🎮Game</p>
-<p>🍸Cocktail</p>
-<p>💪Work out</p>
+<p>🎮Game🎮</p>
+<p>🍸Cocktail🍸</p>
+<p>💪Work out💪</p>
 
 ## contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heunoh01@gmail.com)](mailto:heunoh01@gmail.com)

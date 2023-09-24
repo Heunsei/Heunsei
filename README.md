@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=83dcb7&height=300&section=header&text=Heunoh%20lee&fontSize=90)
  
-
-### currently learning!
+<div align="center">
+ ### currently learning!
 <p>
 <img src="https://img.shields.io/badge/python-C0D84D?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/cpp-00B5E3?style=flat-square&logo=cplusplus&logoColor=blue"/>
@@ -29,3 +29,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heunsei0506)](https://solved.ac/heunsei0506/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heunsei&show_icons=true&theme=transparent)
+</div>
+

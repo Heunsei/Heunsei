@@ -2,7 +2,7 @@
 
 <div align="center">
  
-### currently learning!
+## currently learning!
 <p>
 <img src="https://img.shields.io/badge/python-C0D84D?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/cpp-00B5E3?style=flat-square&logo=cplusplus&logoColor=blue"/>
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/django-F5F0C5?style=flat-square&logo=django&logoColor=black"/>
 </p>
 
-### I will study this!
+## I will study this!
 <p>
 <img src="https://img.shields.io/badge/unrealengine-47302E?style=flat-square&logo=unrealengine&logoColor=white"/>
 </p>

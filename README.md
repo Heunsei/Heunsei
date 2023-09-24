@@ -2,7 +2,6 @@
  
 # :sparkles: Heunoh lee :sparkles:
 
-## this is me!
 ### currently learning!
 <p>
 <img src="https://img.shields.io/badge/python-C0D84D?style=flat-square&logo=python&logoColor=black"/>

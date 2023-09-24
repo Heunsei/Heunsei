@@ -24,10 +24,10 @@
 </p>
 
 ## contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:heunoh01@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:gms245@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heunoh01@gmail.com)](mailto:heunoh01@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gms245@naver.com)](mailto:gms245@naver.com)
 
-</hr>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heunsei0506)](https://solved.ac/heunsei0506/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heunsei&show_icons=true&theme=transparent)

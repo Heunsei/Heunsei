@@ -26,5 +26,4 @@
 <img src="https://img.shields.io/badge/unity-47302E?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={heunsei0506})](https://solved.ac/{heunsei0506})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heunsei0506)](https://solved.ac/heunsei0506/)

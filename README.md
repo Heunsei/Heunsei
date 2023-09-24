@@ -16,11 +16,15 @@
 <img src="https://img.shields.io/badge/unrealengine-47302E?style=flat-square&logo=unrealengine&logoColor=white"/>
 </p>
 
-
 ## I have tried it before!
 <p>
 <img src="https://img.shields.io/badge/unity-47302E?style=flat-square&logo=unity&logoColor=white"/>
 </p>
+
+## I'm interested in
+<p>🎮Game</p>
+<p>🍸Cocktail</p>
+<p>💪Work out</p>
 
 ## contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heunoh01@gmail.com)](mailto:heunoh01@gmail.com)

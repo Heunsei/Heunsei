@@ -27,4 +27,4 @@
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={heunoh01@gmail.com})](https://solved.ac/{heunoh01@gmail.com})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={heunsei0506})](https://solved.ac/{heunsei0506})

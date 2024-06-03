@@ -7,20 +7,24 @@
 <img src="https://img.shields.io/badge/python-C0D84D?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/cpp-00B5E3?style=flat-square&logo=cplusplus&logoColor=blue"/>
 <img src="https://img.shields.io/badge/javascript-blue?logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript"/>
 <img src="https://img.shields.io/badge/html5-800000?style=flat-square&logo=html5&logoColor=orange"/>
 <img src="https://img.shields.io/badge/css-F5F0C5?style=flat-square&logo=csswizardry&logoColor=black"/>
-<img src="https://img.shields.io/badge/django-F5F0C5?style=flat-square&logo=django&logoColor=black"/>
 <img src="https://img.shields.io/badge/react-black?logo=react"/>
+<img src="https://img.shields.io/badge/ReactNative-black?logo=react"/>
 </p>
 
 ## I will study this!
 <p>
-<img src="https://img.shields.io/badge/unrealengine-47302E?style=flat-square&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-blue?logo=springboot"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ## I have tried it before!
 <p>
 <img src="https://img.shields.io/badge/unity-47302E?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/unrealengine-47302E?style=flat-square&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-F5F0C5?style=flat-square&logo=django&logoColor=black"/>
 </p>
 
 ## I'm interested in

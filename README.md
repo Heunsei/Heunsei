@@ -33,6 +33,7 @@
 <p>💪Work out💪</p>
 
 ## contact
+<a href="mailto:gms245@naver.com><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gms245@naver.com"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heunoh01@gmail.com)](mailto:heunoh01@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gms245@naver.com)](mailto:gms245@naver.com)
 

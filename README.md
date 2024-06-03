@@ -6,9 +6,11 @@
 <p>
 <img src="https://img.shields.io/badge/python-C0D84D?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/cpp-00B5E3?style=flat-square&logo=cplusplus&logoColor=blue"/>
+<img src="https://img.shields.io/badge/javascript-blue?logo=javascript"/>
 <img src="https://img.shields.io/badge/html5-800000?style=flat-square&logo=html5&logoColor=orange"/>
 <img src="https://img.shields.io/badge/css-F5F0C5?style=flat-square&logo=csswizardry&logoColor=black"/>
 <img src="https://img.shields.io/badge/django-F5F0C5?style=flat-square&logo=django&logoColor=black"/>
+<img src="https://img.shields.io/badge/react-black?logo=react"/>
 </p>
 
 ## I will study this!

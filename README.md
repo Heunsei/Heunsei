@@ -38,6 +38,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heunsei0506)](https://solved.ac/heunsei0506/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heunsei0873)](https://solved.ac/heunsei0873/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heunsei&layout=compact&theme=tokyonight)
 

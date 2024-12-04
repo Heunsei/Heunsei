@@ -17,7 +17,7 @@
 ## I will study this!
 <p>
 <img src="https://img.shields.io/badge/springboot-blue?logo=springboot"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?logo=nest.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/nest.js-6DA55F?logo=nestjs&logoColor=white"/>
 </p>
 
 ## I have tried it before!
